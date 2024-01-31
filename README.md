@@ -2,7 +2,8 @@
 
 <p>Welcome to my page! </br> I'm Tien, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323319.png" width="13"/> <b>Hanoi, Vietnam</b>
 
-<h3>Things I code with</h3>
+### Things I code with
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000?style=flat-square&logo=next.js&logoColor=white" />
@@ -36,4 +37,6 @@
 
 🔗 &nbsp;**Connect with me**
 
-<a href="https://www.linkedin.com/in/dinhtienn/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="dinhtienn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinhtienn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white
+" alt="dinhtienn" /></a>
+<a href="https://dinhtien.dev/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/-MyPortfolio-c70d2c?style=flat-square&logo=about.me&logoColor=white" /></a>
