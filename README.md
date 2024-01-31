@@ -37,6 +37,5 @@
 
 🔗 &nbsp;**Connect with me**
 
-<a href="https://www.linkedin.com/in/dinhtienn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white
-" alt="dinhtienn" /></a>
+<a href="https://www.linkedin.com/in/dinhtienn/" target="_blank"><img alt="dinhtienn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://dinhtien.dev/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/-MyPortfolio-c70d2c?style=flat-square&logo=about.me&logoColor=white" /></a>
