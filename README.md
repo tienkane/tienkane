@@ -1,6 +1,6 @@
 ### Hi there <a href="https://dinhtien.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<p>Welcome to my page! </br> I'm Tien, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323319.png" width="16" style="position:relative;top:3px"/> <b>Hanoi, Vietnam</b>
+<p>Welcome to my page! </br> I'm Tien, Frontend engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323319.png" width="16" style="position:relative;top:3px"/> <b>Hanoi, Vietnam</b>
 
 ### Things I code with
 
